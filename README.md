@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yunjiu 
 - 👀 I’m interested in flow dynamics
-- 🌱 I’m currently studying as a PhD students in aeronautics at Imperial College London
+- 🌱 I’m currently studying as a PhD student in aeronautics at Imperial College London
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
